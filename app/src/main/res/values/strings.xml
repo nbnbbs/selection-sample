@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Selection</string>
+
+    <string name="action_mode_delete">Delete</string>
+    <string name="action_mode_clear">Clear</string>
+    <string name="action_mode_apply">Apply</string>
+</resources>
